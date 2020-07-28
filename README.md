@@ -26,7 +26,7 @@ yarn electron:build
 ```
 然后把生成好的两个文件上传到自己的文件服务器中：
 
-![](./screenshot/build.png)
+![build](./screenshot/build.png)
 
 `latest.yml` 内容如下
 ```yaml
@@ -81,7 +81,7 @@ remarks:
         });
       })
 ```
-![](./screenshot/updater.png)
+![updater](./screenshot/updater.png)
 
 详细更新过程在 `HelloWorld.vue` 和 `updater.js` 中
 
